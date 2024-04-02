@@ -1,11 +1,11 @@
 # Handson_Electric_vehicle_charging-infrastructure
 
 
----
-Title: Buck Convertor
-author: Ahishek Parochi
-date: 02-04-2024
----
+
+# Title: Buck Convertor
+# Author: Ahishek Parochi
+# Date: 02-04-2024
+
 
 
 
